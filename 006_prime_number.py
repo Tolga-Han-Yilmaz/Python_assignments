@@ -2,7 +2,7 @@
 Calculate whether a number is a prime number
 """
 
-n = int(input("number : "))
+n = int(input("Please enter a number : "))
 counter = 0
 if n >= 0: 
     for i in range(2,n):
